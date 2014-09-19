@@ -152,7 +152,7 @@ does not fix the absolute pathes
 So the entries need to be fixed manually. Please contact me if you have
 tables with both, home:: and local:: entries.
 
-This repair script can be used if only ``local::...`` entries exist,
+This repair script can be used if only single ``local::...`` entries per user exist,
 handle with care!
 
 ::
