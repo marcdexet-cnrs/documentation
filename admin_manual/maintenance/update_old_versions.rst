@@ -77,6 +77,8 @@ Update to 5.0.17
     wget download.owncloud.com/download/$VERSION/owncloud_enterprise-$VERSION.tar.bz2
     tar xf owncloud_enterprise-$VERSION.tar.bz2
 
+Open ownCloud frontend in the browser to start the update.
+
 Update to 6.0.5
 ---------------
 
@@ -102,6 +104,8 @@ Update to 6.0.5
     echo "Update to $VERSION"
     wget download.owncloud.com/download/$VERSION/owncloud_enterprise-$VERSION.tar.bz2
     tar xf owncloud_enterprise-$VERSION.tar.bz2
+
+Open ownCloud frontend in the browser to start the update.
 
 Update ownCloud version 5.0.9
 =============================
